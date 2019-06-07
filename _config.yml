@@ -2,8 +2,8 @@ title:              Bikayi
 email:              info@bikayi.com
 description:        Blogs 
 author:             Unknown
-baseurl:            "/bikayi-blog"
-url:                "https://blackrockdigital.github.io"
+baseurl:            "blog_pages"
+url:                ""
 
 # Social Profiles
 twitter_username:   SBootstrap
